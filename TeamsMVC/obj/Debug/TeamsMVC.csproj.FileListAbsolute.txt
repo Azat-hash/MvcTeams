@@ -1,0 +1,193 @@
+C:\Projects\TeamsMVC\TeamsMVC\bin\TeamsMVC.dll.config
+C:\Projects\TeamsMVC\TeamsMVC\bin\TeamsMVC.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\TeamsMVC.pdb
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\csc.exe
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\csc.exe.config
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\csc.rsp
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\csi.exe
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\csi.exe.config
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\csi.rsp
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.AppContext.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Console.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.Compression.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Net.Http.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.ValueTuple.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\vbc.exe
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\vbc.exe.config
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\vbc.rsp
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\VBCSCompiler.exe
+C:\Projects\TeamsMVC\TeamsMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\TeamsMVC\TeamsMVC\bin\Antlr3.Runtime.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\EntityFramework.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\EntityFramework.SqlServer.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\Newtonsoft.Json.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Helpers.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Mvc.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Optimization.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Razor.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Razor.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\WebGrease.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\EntityFramework.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\EntityFramework.SqlServer.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Helpers.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Mvc.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Optimization.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.Razor.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Razor.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\Newtonsoft.Json.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\Antlr3.Runtime.pdb
+C:\Projects\TeamsMVC\TeamsMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.Helpers.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.Mvc.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.Optimization.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.Razor.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.WebPages.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csprojAssemblyReference.cache
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csproj.CoreCompileInputs.cache
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csproj.CopyComplete
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.dll
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.pdb
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.InitialMigration.resources
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csproj.GenerateResource.cache
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.AddCoach.resources
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.AddSponsors.resources
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.AddAntropometrics.resources
+C:\Projects\TeamsMVC\TeamsMVC\bin\AutoMapper.dll
+C:\Projects\TeamsMVC\TeamsMVC\bin\AutoMapper.xml
+C:\Projects\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.AddPlayerAntropometrics.resources
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\TeamsMVC.dll.config
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\TeamsMVC.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\TeamsMVC.pdb
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\csc.exe
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\csc.exe.config
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\csc.rsp
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\csi.exe
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\csi.exe.config
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\csi.rsp
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.AppContext.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Console.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Net.Http.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Net.Sockets.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\vbc.exe
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\vbc.exe.config
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\vbc.rsp
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Antlr3.Runtime.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\AutoMapper.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\EntityFramework.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Newtonsoft.Json.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Helpers.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Mvc.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Optimization.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Razor.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\WebGrease.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\AutoMapper.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\EntityFramework.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Helpers.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Mvc.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Optimization.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.Razor.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Newtonsoft.Json.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Antlr3.Runtime.pdb
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.Helpers.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.Mvc.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.Optimization.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.Razor.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.WebPages.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csprojAssemblyReference.cache
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.InitialMigration.resources
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csproj.GenerateResource.cache
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csproj.CoreCompileInputs.cache
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.csproj.CopyComplete
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.dll
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.pdb
+D:\Visual Studio\TeamsMVC\TeamsMVC\TeamsMVC\obj\Debug\TeamsMVC.Migrations.TeamsModels.resources

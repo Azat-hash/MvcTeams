@@ -1,0 +1,83 @@
+﻿@using TeamsMVC.Models.ViewModels;
+@using TeamsMVC.Models;
+@using TeamsMVC.Helpers;
+
+@model PlayersListViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Каталог игроков</h2>
+
+<p>
+    @Html.ActionLink("Добавить игрока", "Create")
+</p>
+
+<form method="get">
+    <div class="form-inline">
+        <label class="control-label">Команда</label>
+        @Html.DropDownList("teamId", Model.Teams as SelectList, htmlAttributes: new { @class = "form-control" })
+
+        <label class="control-label">Позиция</label>
+        @Html.DropDownList("position", Model.Positions as SelectList, htmlAttributes: new { @class = "form-control" })
+
+        <input type="submit" value="Обновить" class="btn btn-default" />
+    </div>
+</form>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => (new Player()).FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => (new Player()).LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => (new Player()).DateOfBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => (new Player()).Position)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => (new Player()).Team.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Players)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @item.DateOfBirth.ToString("dd/MM/yyyy")
+            </td>
+            <td>
+                @item.Position.GetDisplayName()
+            </td>
+            @if (item.Team != null)
+            {
+                <td>
+                    @Html.DisplayFor(modelItem => item.Team.Name)
+                </td>
+            }
+            else
+            {
+                <td>
+                </td>
+            }
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
